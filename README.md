@@ -7,9 +7,7 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 💡 Fun fact: I'm currently studying at Coursera learing Meta Frontend Professional Certification, Meta Backend Professional certification as well Meta React Native Specialization.
 - 💡 Fun fact: I graduated from Udacity ALX-T Fullstack Nanodegree in 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, React Native and Python(Django).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, Mobile Engineer  (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ijiolastormz@gmail.com.
